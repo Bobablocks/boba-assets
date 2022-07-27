@@ -1,0 +1,18 @@
+{
+  "name": "Frapped USDT",
+  "website": "https://frapped.io",
+  "description": "fUSDT is the only official cross-chain USDT wrapper. Use multichain. xyz to bridge USDT into fUSDT on a number of chains like Ethereum, Fantom or Binance Smart Chain (BSC) without using the Binance bridge.",
+  "explorer": "https://ftmscan.com/token/0x049d68029688eabf473097a2fc38ef61633a3c7a",
+  "type": "FRC20",
+  "symbol": "fUSDT",
+  "decimals": 6,
+  "status": "active",
+  "id": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+  "tags": ["stablecoin"],
+  "links": [
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/frapped-usdt/"
+    }
+  ]
+}

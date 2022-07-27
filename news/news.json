@@ -1,0 +1,22 @@
+{
+    "news": [
+        {
+            "title": "Boo! v1.0.2+",
+            "subtitle": "Learn more with new features available starting from version 1.0.2",
+            "action": "https://docs.bumoon.io/news/news/boo-v1.0.2+",
+            "image": "https://raw.githubusercontent.com/bumoonio/bumoon-assets/master/news/banner-v102.png"
+        },
+        {
+            "title": "Partnership with Moralis.io",
+            "subtitle": "We happy to announce Boo! is backed by a professional blockchain data provider!",
+            "action": "https://docs.bumoon.io/news/news/boo-x-moralis",
+            "image": "https://raw.githubusercontent.com/bumoonio/bumoon-assets/master/news/banner-moralis.png"
+        },
+        {
+            "title": "Boo! Initial Release",
+            "subtitle": "We glad to announce that we had release our apps at the first stage",
+            "action": "https://docs.bumoon.io/news/news/boo-tm-initial-release",
+            "image": "https://raw.githubusercontent.com/bumoonio/bumoon-assets/master/news/storebanner.jpg"
+        }
+    ]
+}

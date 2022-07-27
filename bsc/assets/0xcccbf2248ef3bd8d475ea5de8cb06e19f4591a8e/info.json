@@ -1,0 +1,11 @@
+{
+    "name": "GoldenWspp",
+    "website": "https://farms.wolfsafepoorpeople.com/",
+    "description": "Golen WSPP is automated liquidity acquired farm & AMM based PancakeSwap v2 on Binance Smart Chain with features that let you earn and win, It should be underlined that Golden WSPP cannot increase the total supply, this makes GWSPP scarce.",
+    "explorer": "https://bscscan.com/token/0xcccbf2248ef3bd8d475ea5de8cb06e19f4591a8e",
+    "type": "BEP20",
+    "symbol": "GWSPP",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xCCCBf2248ef3bd8d475Ea5dE8cb06e19F4591A8E"
+}

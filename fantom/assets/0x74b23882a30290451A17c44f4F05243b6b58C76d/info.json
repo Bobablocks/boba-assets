@@ -1,0 +1,11 @@
+{
+    "name": "WETH",
+    "symbol": "WETH",
+    "type": "FRC20",
+    "decimals": 18,
+    "description": "Wrapped Ethereum on Fantom Blockchain managed by weth.io",
+    "website": "https://weth.io/",
+    "explorer": "https://ftmscan.com/address/0x74b23882a30290451A17c44f4F05243b6b58C76d",
+    "status": "active",
+    "id": "0x74b23882a30290451A17c44f4F05243b6b58C76d"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Binance USD",
+    "website": "https://paxos.com/busd/",
+    "description": "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
+    "explorer": "https://polygonscan.com/token/0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
+    "research": "https://research.binance.com/en/projects/binance-usd",
+    "type": "MRC20",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
+    "tags": [
+        "stablecoin"
+    ]
+}

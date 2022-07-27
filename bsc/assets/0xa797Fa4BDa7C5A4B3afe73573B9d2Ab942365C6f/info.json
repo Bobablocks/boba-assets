@@ -1,0 +1,29 @@
+{
+    "name": "Hololoot",
+    "website": "https://www.hololoot.io/",
+    "description": "Hololoot introduces the world’s first AR NFT generator, marketplace and metaverse designed for widespread adoption. Built by AR industry veterans, it combines the latest developments in automated 3D modelling with the unique properties of NFTs to produce an app that is simultaneously powerful and easy to use.",
+    "explorer": "https://bscscan.com/token/0xa797Fa4BDa7C5A4B3afe73573B9d2Ab942365C6f",
+    "symbol": "HOL",
+    "type": "BEP20",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa797Fa4BDa7C5A4B3afe73573B9d2Ab942365C6f",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/hololoot_chat"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/hololoot"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/hololoot/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/hololoot"
+        }
+    ]
+}

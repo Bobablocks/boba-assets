@@ -1,0 +1,11 @@
+{
+    "name": "WETH",
+    "symbol": "WETH",
+    "type": "ARC20",
+    "decimals": 18,
+    "description": "Wrapped Ethereum on Avalance-C Chain managed by weth.io",
+    "website": "https://weth.io/",
+    "explorer": "https://snowtrace.io/address/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+    "status": "active",
+    "id": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB"
+}
