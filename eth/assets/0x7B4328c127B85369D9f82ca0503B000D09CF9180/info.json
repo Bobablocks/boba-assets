@@ -1,0 +1,32 @@
+{
+  "name": "Dogechain",
+  "symbol": "DC",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Dogechain supercharges $Dogecoin to bring crypto applications like NFTs, games, and DeFi to the $Dogecoin community. Unfortunately, $Dogecoin cannot support any of these applications (or any other dApps). Dogechain fixes this. WIth Dogechain, Dogecoin holders can do more than simply hodl and wait for Dogecoin to moon!",
+  "website": "https://dogechain.dog",
+  "explorer": "https://etherscan.io/token/0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+  "id": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/dogechainfamily"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/DogeChainOfficial"
+    },
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/dogechain/"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://dogechain.dog/DogechainWP.pdf?v=20220801"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/dogechain"
+    }
+  ]
+}
